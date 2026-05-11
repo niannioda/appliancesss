@@ -42,6 +42,7 @@ if(isset($_POST['submit'])){
     <option>Oven</option>
     <option>Refrigerator</option>
     <option>Washer</option>
+    <option>Seth</option>
   </select>
 
   <button type="submit" name="submit" class="btn btn-success">Add Product</button>
